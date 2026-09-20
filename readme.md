@@ -21,7 +21,7 @@
 ## ⛩️ About Me
 
 ```yaml
-name: Mst. Azra Jerin
+name: Azra Jerin
 university: Daffodil International University
 location: Dhaka, Bangladesh 🇧🇩
 focus:
